@@ -18,4 +18,4 @@ A game similar to the Google dinosaur game, where you play as a cow jumping over
 - Displaying text
 - Loading images
 - Basic game states
-- Simulated Gravity
+- Simulated gravity
